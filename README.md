@@ -1,3 +1,11 @@
+<div align="center">
+
+  [![GitHub release](https://img.shields.io/badge/下载-DMG-green?style=flat-square)](https://github.com/Terryyyyyyyyyyyyyyy/BilingualSubtitlesOffline/releases)
+  ![macOS](https://img.shields.io/badge/macOS-26.0%2B-blue?style=flat-square)
+  ![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-M1%2F2%2F3%2F4-orange?style=flat-square)
+
+</div>
+
 # 离线双语字幕生成器
 
 完全离线的 macOS 原生应用 — 放入视频，自动生成双语字幕。支持 **SRT**（通用）和 **ASS**（带样式）两种格式。
@@ -85,3 +93,11 @@ zip -r BilingualSubtitlesOffline.zip BilingualSubtitlesOffline.app
 ```
 
 直接把 `.zip` 发给朋友即可（约 130MB），对方需要 Apple Silicon Mac 和 macOS 26.0+。
+
+---
+
+<div align="center">
+
+  [GitHub 仓库](https://github.com/Terryyyyyyyyyyyyyyy/BilingualSubtitlesOffline) · [提交 Issue](https://github.com/Terryyyyyyyyyyyyyyy/BilingualSubtitlesOffline/issues)
+
+</div>
