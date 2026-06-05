@@ -1,0 +1,25 @@
+# 依赖（大文件，自行下载）
+deps/models/*.bin
+deps/whisper.cpp/
+
+# 构建产物
+build/
+DerivedData/
+
+# macOS 系统文件
+.DS_Store
+*.app
+*.dmg
+
+# 临时文件
+tmp/
+*.tmp
+
+# Swift Package Manager
+.packages
+.build
+Package.resolved
+
+# Codex/Agent 文件
+.agents/
+.codex/
